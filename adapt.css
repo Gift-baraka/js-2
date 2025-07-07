@@ -1,0 +1,29 @@
+*{
+	background-color: #BB3E00;
+};
+a:link{
+   color: #0D5EA6;
+}
+a:visited{
+	color: #E67514;
+}
+a:hover{
+	color: #000000;
+}
+a:active{
+	color: #471396;
+}
+h1{
+	text-align: center;
+	font-family: Playfair Display;
+	margin-color: black; 
+}
+p{
+	font-family: Corey Anderson;
+	text-size: 14px;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
