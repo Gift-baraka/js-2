@@ -13,3 +13,6 @@ function validatePhoneNumber() {
       error.textContent = ""; 
       alert("Granted!");
       return true; 
+
+if(password !== confirmPassword){
+      document.getElementById("confirmerror")
