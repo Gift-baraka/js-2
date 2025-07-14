@@ -1,7 +1,7 @@
 function validatePhoneNumber() {
       const phone = document.getElementById("phone").value;
       const error = document.getElementById("error");
-
+}
       /
       const pattern = /^07\d{8}$/;
 
