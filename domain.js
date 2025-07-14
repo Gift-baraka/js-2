@@ -17,3 +17,4 @@ function validatePhoneNumber() {
 if(password !== confirmPassword){
       document.getElementById("confirmerror").textContent = "Passwords dont match";
       valid = false;
+}
